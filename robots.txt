@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peogd.github.io/hcS/sitemap.hcS.gz
